@@ -1,0 +1,64 @@
+[2013-04-07 20:38:18.736] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-04-07 20:38:19.638] [INFO] console - info: 'socket.io started'
+[2013-04-07 20:38:19.641] [INFO] \node_modules\pomelo\lib\master\starter.js - Executing cd "D:\Dev\gws\helloWorld\game-server" && "C:\Program Files (x86)\nodejs\node.exe" "D:\Dev\gws\helloWorld\game-server\app.js" env="development"  "id"="connector-server-1"  "host"="127.0.0.1"  "port"="3150"  "clientPort"="3010"  "frontend"="true"  "serverType"="connector"  locally
+[2013-04-07 20:38:19.680] [INFO] console - [32m[2013-04-07 20:38:19.680] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "master", "127.0.0.1", 3005
+[2013-04-07 20:38:20.914] [INFO] console - [32m[2013-04-07 20:38:20.196] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-04-07 20:38:21.019] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-04-07 20:38:21.020] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-04-07 20:38:21.885] [INFO] console - [32m[2013-04-07 20:38:21.881] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-04-07 20:38:21.953] [INFO] console - [32m[2013-04-07 20:38:21.952] [INFO] console - [39m[32m[2013-04-07 20:38:21.951] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-04-07 20:38:22.034] [INFO] console - [32m[2013-04-07 20:38:22.033] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-04-07 20:38:22.056] [INFO] console - [32m[2013-04-07 20:38:22.055] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-04-07 20:43:32.408] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-04-07 20:43:33.314] [INFO] console - info: 'socket.io started'
+[2013-04-07 20:43:33.317] [INFO] \node_modules\pomelo\lib\master\starter.js - Executing cd "D:\Dev\gws\helloWorld\game-server" && "C:\Program Files (x86)\nodejs\node.exe" "D:\Dev\gws\helloWorld\game-server\app.js" env="development"  "id"="connector-server-1"  "host"="127.0.0.1"  "port"="3150"  "clientPort"="3010"  "frontend"="true"  "serverType"="connector"  locally
+[2013-04-07 20:43:33.356] [INFO] console - [32m[2013-04-07 20:43:33.356] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "master", "127.0.0.1", 3005
+[2013-04-07 20:43:34.553] [INFO] console - [32m[2013-04-07 20:43:33.830] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-04-07 20:43:34.658] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-04-07 20:43:34.659] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-04-07 20:43:35.478] [INFO] console - [32m[2013-04-07 20:43:35.474] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-04-07 20:43:35.545] [INFO] console - [32m[2013-04-07 20:43:35.544] [INFO] console - [39m[32m[2013-04-07 20:43:35.543] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-04-07 20:43:35.624] [INFO] console - [32m[2013-04-07 20:43:35.623] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-04-07 20:43:35.646] [INFO] console - [32m[2013-04-07 20:43:35.646] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-04-07 20:45:44.985] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-04-07 20:45:45.889] [INFO] console -    [36minfo  -[39m 'socket.io started'
+[2013-04-07 20:45:45.894] [INFO] \node_modules\pomelo\lib\master\starter.js - Executing cd "D:\Dev\gws\helloWorld\game-server" && "C:\Program Files (x86)\nodejs\node.exe" "D:\Dev\gws\helloWorld\game-server\app" env="development"  "id"="connector-server-1"  "host"="127.0.0.1"  "port"="3150"  "clientPort"="3010"  "frontend"="true"  "serverType"="connector"  locally
+[2013-04-07 20:45:45.935] [INFO] console - [32m[2013-04-07 20:45:45.935] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "master", "127.0.0.1", 3005
+[2013-04-07 20:45:47.133] [INFO] console - [32m[2013-04-07 20:45:46.410] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-04-07 20:45:47.241] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-04-07 20:45:47.244] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-04-07 20:45:48.057] [INFO] console - [32m[2013-04-07 20:45:48.052] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-04-07 20:45:48.124] [INFO] console - [32m[2013-04-07 20:45:48.123] [INFO] console - [39m[32m[2013-04-07 20:45:48.122] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-04-07 20:45:48.201] [INFO] console - [32m[2013-04-07 20:45:48.200] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-04-07 20:45:48.222] [INFO] console - [32m[2013-04-07 20:45:48.222] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
+[2013-04-07 20:46:06.199] [INFO] \node_modules\pomelo\lib\application.js - application inited: "master-server-1"
+[2013-04-07 20:46:07.102] [INFO] console -    [36minfo  -[39m 'socket.io started'
+[2013-04-07 20:46:07.107] [INFO] \node_modules\pomelo\lib\master\starter.js - Executing cd "D:\Dev\gws\helloWorld\game-server" && "C:\Program Files (x86)\nodejs\node.exe" "D:\Dev\gws\helloWorld\game-server\app" env="production"  "id"="connector-server-1"  "host"="127.0.0.1"  "port"="3150"  "clientPort"="3010"  "frontend"="true"  "serverType"="connector"  locally
+[2013-04-07 20:46:07.148] [INFO] console - [32m[2013-04-07 20:46:07.148] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "master", "127.0.0.1", 3005
+[2013-04-07 20:46:08.349] [INFO] console - [32m[2013-04-07 20:46:07.623] [INFO] \node_modules\pomelo\lib\application.js - [39mapplication inited: "connector-server-1"
+
+[2013-04-07 20:46:08.461] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" enter after start...
+[2013-04-07 20:46:08.463] [INFO] \node_modules\pomelo\lib\application.js - "master-server-1" finish start
+[2013-04-07 20:46:09.281] [INFO] console - [32m[2013-04-07 20:46:09.260] [INFO] console - [39minfo: 'socket.io started'
+
+[2013-04-07 20:46:09.326] [INFO] console - [32m[2013-04-07 20:46:09.325] [INFO] console - [39m[32m[2013-04-07 20:46:09.324] [INFO] \node_modules\pomelo\node_modules\pomelo-admin\lib\consoleService.js - [39mtry to connect master: "connector", "127.0.0.1", 3005
+
+[2013-04-07 20:46:09.404] [INFO] console - [32m[2013-04-07 20:46:09.404] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" enter after start...
+
+[2013-04-07 20:46:09.425] [INFO] console - [32m[2013-04-07 20:46:09.425] [INFO] \node_modules\pomelo\lib\application.js - [39m"connector-server-1" finish start
+
